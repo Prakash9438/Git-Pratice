@@ -12,5 +12,6 @@ public class App
 	int c =a;
         System.out.println( "Hello World!" );
 	System.out.println( "Commiting to git!" );
+	System.out.pritln("Praticing git bash);
     }
 }
